@@ -1,4 +1,4 @@
-``` C
+```c
 #include <gtk/gtk.h>
 
 GtkWidget *entry; // Entry widget to display and input numbers
@@ -111,3 +111,4 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+```
