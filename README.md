@@ -1,4 +1,4 @@
-"Simple GTK Calculator in C"
+*Simple GTK Calculator in C*
 
 This is a basic calculator application built using the GTK library in the C programming language. It provides a graphical user interface for performing arithmetic operations, including addition, subtraction, multiplication, and division. The calculator features a user-friendly interface with numeric buttons, operator buttons (+, -, *, /), a clear button (C), and an equals button (=).
 
